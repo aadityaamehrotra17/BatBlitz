@@ -18,7 +18,3 @@ Run the [BatBlitz.py](https://github.com/aadityaamehrotra17/BatBlitz/blob/main/B
 **Contact**
 
 If you have any questions, feel free to open an issue or reach out to me at aadityaa.mehrotra@student.manchester.ac.uk.
-
-**License**
-
-This project is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/aadityaamehrotra17/BatBlitz/blob/main/LICENSE) file.
